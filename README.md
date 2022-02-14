@@ -4,8 +4,7 @@
 ##### University of Colorado Boulder, Leeds School of Business
 ###### Data from https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020
 
-#### Our team was proposed with the SQL challenge to build a database from scratch using Data Definition Language to CREATE, and INSERT values into tables. 
-
-#### Check out some of the questions we tried to answer and some of the takeaways. We answered questions both through SQL and generated some visuals through Tableau.
+#### Our team was decided to dive deep into the Formula 1 statistics to asnwer a lot of questions we had as fans.
+#### To answer them we created several SQL queries ranging from simple to complex in addition to Tableau visuals.
 
 ##### Geoc
